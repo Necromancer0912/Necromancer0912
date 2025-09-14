@@ -4,9 +4,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Necromancer1009&style=flat&abbreviated=true)
-- 🔭 I’m currently working on NLP & Computer Vision
-- 🌱 I’m currently learning Deep Learning & AI
-- 👯 I’m looking to collaborate on AI/ML projects
+- I’m currently working on NLP & Computer Vision
+- I’m currently learning Deep Learning & AI
+- I’m looking to collaborate on AI/ML projects
 - 📫 Email : sayan20012002@gmail.com
 
 ### Programming Languages & Tools ⌨️
