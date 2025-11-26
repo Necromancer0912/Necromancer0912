@@ -23,12 +23,15 @@ M.Tech Computer Science student at IIIT Delhi, working on AI/ML research with fo
 - Medical imaging analysis
 - Web development
 
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+---
+
+<p align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/>
+</p>
+
+---
 
 ## Publications
-
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
-
 ### Neuro-Computational Blood Flow Simulation
 **Electromagnetic Biology and Medicine** • January 2025  
 DOI: [10.1080/15368378.2025.2453923](https://doi.org/10.1080/15368378.2025.2453923)
@@ -183,6 +186,8 @@ ML-based spam detection using classification algorithms and NLP preprocessing.
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120">
 </p>
 
+
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -196,6 +201,11 @@ ML-based spam detection using classification algorithms and NLP preprocessing.
 </a>
 
 </div>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="205"/>
+</p>
 
 ---
 ## 🎓 Education
