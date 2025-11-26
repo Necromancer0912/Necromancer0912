@@ -2,7 +2,7 @@
 
 # Sayan Das
 
-**AI/ML Researcher • M.Tech CSE @ IIIT Delhi • Published Author**
+M.Tech CSE @ IIIT Delhi
 
 <p align="center">
   <a href="mailto:sayan20012002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -13,43 +13,27 @@
 
 </div>
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│  Research Focus: AI • Computational Physics • Deep Learning │
-│  Domains: Medical Imaging • NLP • Computer Vision          │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ---
 
-## 👨‍💻 About
+## About
 
-First-year M.Tech Computer Science student at **IIIT Delhi**, specializing in AI/ML research with focus on computational physics and neural networks. I combine academic research with practical development, building AI systems that solve real-world problems in biomedical engineering, food science, and web applications.
+M.Tech Computer Science student at IIIT Delhi, working on AI/ML research with focus on computational physics and neural networks.
 
 **Current Work**
-- 🔬 AI-driven computational simulations and neuro-computational modeling
-- 🧠 Deep learning architectures for predictive modeling
-- 🌐 Full-stack web development with modern frameworks
-- 📊 Medical imaging analysis and segmentation
+- Computational simulations with neural networks
+- Deep learning for predictive modeling  
+- Medical imaging analysis
+- Web development
 
-**Research Interests**
-- Neural networks for computational fluid dynamics
-- Nanoparticle behavior modeling using AI
-- Medical image analysis and tumor detection
-- Interdisciplinary applications of machine learning
-
----
-
-## 📚 Publications
+## Publications
 
 ### Neuro-Computational Blood Flow Simulation
 **Electromagnetic Biology and Medicine** • January 2025  
 DOI: [10.1080/15368378.2025.2453923](https://doi.org/10.1080/15368378.2025.2453923)
 
-Developed neural network models for predicting blood flow patterns with gold and maghemite nanoparticles in electromagnetic microchannels. Applied deep learning to optimize drug delivery systems and medical imaging.
+Developed neural network models for predicting blood flow patterns with nanoparticles in electromagnetic microchannels.
 
-**Contributions:** Neural network architecture design • Computational simulations • Electromagnetic field modeling  
-**Technologies:** PyTorch • TensorFlow • CFD • NumPy • SciPy
+`PyTorch` `TensorFlow` `CFD`
 
 ---
 
@@ -57,14 +41,13 @@ Developed neural network models for predicting blood flow patterns with gold and
 **Chinese Journal of Physics** • November 2024  
 DOI: [10.1016/j.cjph.2024.11.025](https://doi.org/10.1016/j.cjph.2024.11.025)
 
-Implemented AI models to predict milk flow dynamics with silver-zinc oxide hybrid nanoparticles under electromagnetic fields and thermal oscillations. Developed quality control optimization for dairy processing.
+Implemented AI models to predict milk flow dynamics with hybrid nanoparticles under electromagnetic fields.
 
-**Contributions:** Predictive modeling • Laplace transform optimization • Thermal analysis  
-**Technologies:** Neural Networks • PDEs • scikit-learn • TensorFlow
+`Neural Networks` `PDEs` `TensorFlow`
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 <details>
 <summary><b>AI/ML & Data Science</b></summary>
@@ -185,10 +168,14 @@ ML-based spam detection using classification algorithms and NLP preprocessing.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Necromancer0912&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Necromancer0912&theme=default&hide_border=true" />
+<a href="https://github.com/Necromancer0912">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Necromancer0912&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Necromancer0912&theme=default&hide_border=true"/>
+</a>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer0912&layout=compact&theme=default&hide_border=true&langs_count=8" />
+<a href="https://github.com/Necromancer0912">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer0912&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+</a>
 
 </div>
 
@@ -201,44 +188,6 @@ ML-based spam detection using classification algorithms and NLP preprocessing.
 
 Specialization: Artificial Intelligence and Machine Learning  
 Focus: Computational Physics • Neural Networks • Medical Imaging
-
----
-
-## 🏆 Highlights
-
-**Research**
-- 2 publications in international peer-reviewed journals (2024-2025)
-- Neuro-computational simulations for biomedical applications
-- AI-driven predictive modeling for industrial applications
-
-**Technical**
-- 9 AI/ML projects spanning medical imaging, NLP, and computer vision
-- Novel architectures for brain tumor classification and segmentation
-- Full-stack development with modern frameworks
-
-**Domains**
-- Medical AI and biomedical engineering
-- Computational physics and scientific computing
-- Natural language processing and computer vision
-- Web development and cloud deployment
-
----
-
-## 🌐 Expertise
-
-```
-Research & Academia          Software Development
-├─ Computational Physics     ├─ Full-Stack Web Apps
-├─ Neural Networks           ├─ RESTful APIs
-├─ Medical Imaging           ├─ Cloud Deployment
-└─ Scientific ML             └─ Database Design
-
-AI/ML Applications           Interdisciplinary
-├─ Computer Vision           ├─ Biomedical Engineering
-├─ NLP & Text Analysis       ├─ Food Science
-├─ Predictive Modeling       ├─ Electromagnetic Modeling
-└─ Deep Learning             └─ Nanoparticle Dynamics
-```
 
 ---
 
@@ -258,12 +207,6 @@ AI/ML Applications           Interdisciplinary
 
 <div align="center">
 
-```
-Building the future, one neural network at a time.
-```
-
-**M.Tech CSE @ IIIT Delhi** • **Published Researcher** • **AI/ML Developer**
-
-<sub>Last updated: 2024</sub>
+<sub>⭐ Thank you! Have a nice day!</sub>
 
 </div>
