@@ -1,7 +1,5 @@
 <div align="center">
 
-# Sayan Das
-
 M.Tech CSE @ IIIT Delhi
 
 <p align="center">
@@ -15,7 +13,7 @@ M.Tech CSE @ IIIT Delhi
 
 ---
 
-## About
+## About Me
 
 M.Tech Computer Science student at IIIT Delhi, working on AI/ML research with focus on computational physics and neural networks.
 
@@ -25,7 +23,11 @@ M.Tech Computer Science student at IIIT Delhi, working on AI/ML research with fo
 - Medical imaging analysis
 - Web development
 
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+
 ## Publications
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
 
 ### Neuro-Computational Blood Flow Simulation
 **Electromagnetic Biology and Medicine** • January 2025  
@@ -47,62 +49,75 @@ Implemented AI models to predict milk flow dynamics with hybrid nanoparticles un
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+</p>
+
 ## Technical Stack
 
-<details>
-<summary><b>AI/ML & Data Science</b></summary>
+<div align="center">
 
-**Frameworks & Libraries**  
-PyTorch • TensorFlow • Keras • scikit-learn • NumPy • Pandas • Matplotlib • Seaborn • OpenCV
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-**Techniques**  
-Neural Networks • CNNs • RNNs • LSTMs • Transformers • Computer Vision • NLP • Predictive Modeling
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-</details>
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<details>
-<summary><b>Web Development</b></summary>
+### Mobile Development
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-**Frontend**  
-React • Next.js • Vue.js • HTML5 • CSS3 • JavaScript • TypeScript • Tailwind CSS • Bootstrap
+### Databases & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Backend**  
-Node.js • Express.js • FastAPI • Flask • Django
+### Design & Creative
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unreal-engine&logoColor=white)
 
-</details>
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
-<details>
-<summary><b>Programming & Tools</b></summary>
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
 
-**Languages**  
-Python • JavaScript/TypeScript • C/C++ • Java • Kotlin • SQL • Bash
-
-**Databases**  
-MySQL • PostgreSQL • MongoDB • SQLite • Redis
-
-**Cloud & DevOps**  
-AWS • GCP • Docker • Git • GitHub Actions • Heroku • Vercel
-
-**Development Tools**  
-VS Code • PyCharm • Jupyter • Linux • LaTeX • Figma
-
-</details>
-
-<details>
-<summary><b>Scientific Computing</b></summary>
-
-**Simulation & Modeling**  
-Computational Fluid Dynamics • Finite Element Analysis • Numerical Methods
-
-**Mathematical Tools**  
-PDEs • Laplace Transforms • Optimization Algorithms
-
-</details>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
-
 ### Medical AI
 
 **Brain Tumor Classification**  
@@ -164,30 +179,29 @@ ML-based spam detection using classification algorithms and NLP preprocessing.
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120">
+</p>
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/Necromancer0912">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Necromancer0912&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Necromancer0912&theme=default&hide_border=true"/>
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Necromancer0912&theme=github)
+
+
 
 <a href="https://github.com/Necromancer0912">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Necromancer0912&layout=compact&theme=default&hide_border=true&langs_count=8"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necromancer0912&theme=github" width="400"/>
 </a>
 
 </div>
 
 ---
-
 ## 🎓 Education
 
 **Master of Technology (M.Tech) in Computer Science**  
 *IIIT Delhi* • 2024 - Present
-
-Specialization: Artificial Intelligence and Machine Learning  
-Focus: Computational Physics • Neural Networks • Medical Imaging
 
 ---
 
@@ -207,6 +221,10 @@ Focus: Computational Physics • Neural Networks • Medical Imaging
 
 <div align="center">
 
-<sub>⭐ Thank you! Have a nice day!</sub>
+<sub>Thank you! Have a nice day!</sub>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="300"/>
 
 </div>
