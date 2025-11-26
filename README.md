@@ -1,7 +1,6 @@
 <div align="center">
 
-M.Tech CSE @ IIIT Delhi
-
+Computer Enthusiast
 <p align="center">
   <a href="mailto:sayan20012002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Necromancer0912"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
