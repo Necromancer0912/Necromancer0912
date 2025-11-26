@@ -53,12 +53,12 @@ Implemented AI models to predict milk flow dynamics with hybrid nanoparticles un
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="210"/>
 </p>
 
 ## Technical Stack
 
-<div align="center">
+<div align="left">
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -116,6 +116,12 @@ Implemented AI models to predict milk flow dynamics with hybrid nanoparticles un
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white)
 
+</div>
+
+---
+
+<div align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </div>
 
 ---
@@ -192,19 +198,18 @@ ML-based spam detection using classification algorithms and NLP preprocessing.
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Necromancer0912&theme=github)
-
-
-
 <a href="https://github.com/Necromancer0912">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Necromancer0912&theme=github" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Necromancer0912&theme=github" width="400"/>
+</a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=Necromancer0912&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Necromancer0912&theme=default&hide_border=true" width="400"/>
 </a>
 
 </div>
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="205"/>
+  
 </p>
 
 ---
