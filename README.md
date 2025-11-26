@@ -202,6 +202,7 @@ ML-based spam detection using classification algorithms and NLP preprocessing.
 <a href="https://github.com/Necromancer0912">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Necromancer0912&theme=github" width="400"/>
 </a>
+<br>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=Necromancer0912&theme=default&hide_border=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Necromancer0912&theme=default&hide_border=true" width="400"/>
 </a>
