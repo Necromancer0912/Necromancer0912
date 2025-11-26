@@ -55,6 +55,8 @@ Implemented AI models to predict milk flow dynamics with hybrid nanoparticles un
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="210"/>
 </p>
 
+---
+
 ## Technical Stack
 
 <div align="left">
