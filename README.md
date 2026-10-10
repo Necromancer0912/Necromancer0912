@@ -11,7 +11,7 @@ and the networks and kernels underneath them.
 <a href="mailto:sayan20012002@gmail.com"><img src="https://img.shields.io/badge/Email-111113?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/necromancer0912"><img src="https://img.shields.io/badge/LinkedIn-111113?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://monkeytype.com/profile/Sayan0912"><img src="https://img.shields.io/badge/Monkeytype-111113?style=flat-square&logo=monkeytype&logoColor=white" alt="Monkeytype"/></a>
-<img src="https://komarev.com/ghpvc/?username=Necromancer0912&style=flat-square&color=111113&label=views" alt="Profile views"/>
+<img src="https://hits.sh/github.com/Necromancer0912.svg?style=flat-square&label=views&color=111113&labelColor=111113" alt="Profile views"/>
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150"/>
 
